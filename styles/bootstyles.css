@@ -1,0 +1,25 @@
+.header{
+    height: 100px;
+    background-color: rgb(20, 103, 75);
+    line-height: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+.mainbody{
+    background-color: rgb(153, 150, 150);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+.footer{
+    height:50px;
+    background-color: rgb(74, 138, 74);
+    color: black;
+    line-height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
